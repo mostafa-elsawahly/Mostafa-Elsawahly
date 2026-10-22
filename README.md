@@ -1,36 +1,40 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXprMXZoam9qNzUxNWN0eHNnenR6czlsMDYwcmt0ZHEzeDI5NXBvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hVPMOjQSGIyhvIek1/giphy.gif" alt="Coding animation" />
+  <img src="assets/mostafa-profile-banner.svg" alt="Mostafa Elswahly — Sales Analyst, BIS student, Egypt" width="100%" />
+</div>
 
-  <h1>Hi, I'm Mostafa Elswahly 👋</h1>
-  <p><strong>Sales Analyst at Re-Lease · BIS student · Egypt 🇪🇬</strong></p>
-
+<div align="center">
   <a href="https://www.linkedin.com/in/mostafa-elsawahly/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-LET’S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:mostafasamerwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Email-SAY%20HELLO-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </div>
 
----
+<br />
 
-## About me
+## A little about me
 
-- 🔭 I work as a **Sales Analyst at Re-Lease**.
-- 📚 I’m currently studying **BIS**.
-- 🌍 I’m from **Egypt**.
-- 🤝 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsawahly/) or [send me an email](mailto:mostafasamerwork@gmail.com).
+I’m **Mostafa Elswahly**, a Sales Analyst at **Re-Lease** and a **BIS student** from Egypt. I’m interested in the space where business, information, and thoughtful analysis meet.
 
-## GitHub activity
+| **Right now** | **My current chapter** |
+|:--|:--|
+| 🔎 Working as a Sales Analyst | 📚 Studying Business Information Systems |
+| 📍 Egypt | 💼 Re-Lease |
+
+## Find me around the web
+
+- [LinkedIn](https://www.linkedin.com/in/mostafa-elsawahly/)
+- [Email](mailto:mostafasamerwork@gmail.com)
+
+## The contribution trail 🐍
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mostafa-elsawahly/mostafa-elsawahly/snake-output/snake.svg" alt="A snake animation of my GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/mostafa-elsawahly/mostafa-elsawahly/snake-output/snake.svg" alt="Snake animation of my GitHub contribution graph" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-elsawahly.mostafa-elsawahly" alt="Profile visitors" />
-</div>
-
-<div align="center">
-  <sub>Thanks for stopping by! ✨</sub>
+  <br />
+  <sub>Thanks for stopping by — let’s connect.</sub>
 </div>
