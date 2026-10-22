@@ -1,75 +1,36 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXprMXZoam9qNzUxNWN0eHNnenR6czlsMDYwcmt0ZHEzeDI5NXBvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hVPMOjQSGIyhvIek1/giphy.gif"  />
-</div>
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXprMXZoam9qNzUxNWN0eHNnenR6czlsMDYwcmt0ZHEzeDI5NXBvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hVPMOjQSGIyhvIek1/giphy.gif" alt="Coding animation" />
 
-###
+  <h1>Hi, I'm Mostafa Elswahly 👋</h1>
+  <p><strong>Sales Analyst at Re-Lease · BIS student · Egypt 🇪🇬</strong></p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mostafa-elsawahly/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mostafa-elsawahly/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-  <a href="mostafasamerwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:mostafasamerwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </div>
 
-###
+---
+
+## About me
+
+- 🔭 I work as a **Sales Analyst at Re-Lease**.
+- 📚 I’m currently studying **BIS**.
+- 🌍 I’m from **Egypt**.
+- 🤝 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsawahly/) or [send me an email](mailto:mostafasamerwork@gmail.com).
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-elsawahly.mostafa-elsawahly&"  />
+  <img src="https://raw.githubusercontent.com/mostafa-elsawahly/mostafa-elsawahly/snake-output/snake.svg" alt="A snake animation of my GitHub contribution graph" />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mostafa Elswahly from Egypt<br><br>- 🔭 I’m working as Sales Analyst, Re-Lease<br>- 📚 I'm currently learning BIS</p>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-elsawahly.mostafa-elsawahly" alt="Profile visitors" />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mostafa-elsawahly/mostafa-elsawahly/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
+  <sub>Thanks for stopping by! ✨</sub>
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
