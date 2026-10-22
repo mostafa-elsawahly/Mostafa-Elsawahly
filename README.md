@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mostafa-profile-banner.svg" alt="Mostafa S. Elsawahly — Business Intelligence and Data Analytics" width="100%" />
+  <img src="assets/download.svg" alt="Mostafa S. Elsawahly — Business Intelligence and Data Analytics" width="100%" />
   <br /><br />
   <a href="https://mostafa-elsawahly.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-EXPLORE-197B75?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my portfolio" />
