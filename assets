@@ -1,1 +1,26 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="22" y1="15" x2="1175" y2="354" gradientUnits="userSpaceOnUse"><stop stop-color="#091923"/><stop offset=".58" stop-color="#102D38"/><stop offset="1" stop-color="#173B3D"/></linearGradient>
+    <linearGradient id="sun" x1="842" y1="91" x2="1037" y2="266" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE5AF"/><stop offset="1" stop-color="#E7B66F"/></linearGradient>
+    <linearGradient id="foreground" x1="624" y1="238" x2="1104" y2="356" gradientUnits="userSpaceOnUse"><stop stop-color="#315A55"/><stop offset="1" stop-color="#183A3D"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#C6DDD8" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="738" y="25" width="398" height="300" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="25"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/><rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="937" cy="174" r="100" fill="#78CDB8" fill-opacity=".3" filter="url(#glow)"/><circle cx="937" cy="174" r="78" fill="url(#sun)"/>
+  <path d="M0 278C132 245 228 258 350 284C478 311 561 299 681 266C810 231 940 246 1200 207V360H0V278Z" fill="#112D37" fill-opacity=".94"/>
+  <path d="M0 316C181 278 299 299 443 321C594 344 738 302 874 281C1004 261 1101 278 1200 255V360H0V316Z" fill="url(#foreground)" fill-opacity=".95"/>
+  <!-- Original geometric pyramid silhouettes -->
+  <path d="M720 307L806 225L890 307H720Z" fill="#D6B48A" fill-opacity=".94"/><path d="M806 225L849 307H890L806 225Z" fill="#A98969" fill-opacity=".86"/>
+  <path d="M867 309L948 242L1028 309H867Z" fill="#E2C29A" fill-opacity=".9"/><path d="M948 242L990 309H1028L948 242Z" fill="#A98969" fill-opacity=".82"/>
+  <!-- Data line and nodes -->
+  <path d="M672 230L731 214L778 225L834 176L883 187L928 139L983 150L1047 105L1103 119" stroke="#8AD8C3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".96"/>
+  <g fill="#F5EBD7" stroke="#28514D" stroke-width="3"><circle cx="731" cy="214" r="5"/><circle cx="834" cy="176" r="5"/><circle cx="928" cy="139" r="5"/><circle cx="1047" cy="105" r="5"/></g>
+  <g fill="#A7DCCE" fill-opacity=".82"><circle cx="1085" cy="55" r="2"/><circle cx="1138" cy="91" r="2"/><circle cx="686" cy="83" r="2"/><circle cx="766" cy="61" r="2"/><circle cx="1094" cy="207" r="2"/><circle cx="642" cy="131" r="2"/></g>
+  <rect x="68" y="66" width="43" height="3" rx="1.5" fill="#E7C48E"/>
+  <text x="68" y="123" fill="#E7C48E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">SALES ANALYST · BIS STUDENT · EGYPT</text>
+  <text x="64" y="194" fill="#F7F4EC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Mostafa Elswahly</text>
+  <text x="68" y="235" fill="#D2E2DD" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".2">Turning sales signals into clearer decisions.</text>
+  <text x="68" y="316" fill="#A9D8C9" fill-opacity=".92" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">CURIOUS BY NATURE  /  BUILDING MY NEXT CHAPTER</text>
+</svg>
